@@ -22,9 +22,9 @@
 
 | NAME | github | Part |
 | ------ | -------- | ----------------	|
-| 이준혁 | [See GitHub Profile](https://github.com/leejoon2067) | 아이디어 빌딩, 데이터 전처리, 데이터 시각화, modeling, 발표 |
-| 김기범 | [See GitHub Profile](https://github.com/) | 아이디어 빌딩, 데이터 전처리, 데이터 시각화|
-| 김건형 | [See GitHub Profile](https://github.com/) | 아이디어 빌딩, 데이터 전처리, AirFlow 활용 크롤링,  |
-| 김채령 | [See GitHub Profile](https://github.com/) | 아이디어 빌딩, 데이터 전처리, 데이터 시각화 |
-| 조수현 | [See GitHub Profile](https://github.com/) | 아이디어 빌딩, 데이터 전처리, 데이터 시각화|
-| 한채연 | [See GitHub Profile](https://github.com/intelsally) | 아이디어 빌딩, 데이터 전처리, 데이터 시각화 |
+| 이준혁 | [See GitHub Profile](https://github.com/leejoon2067) | 아이디어 빌딩, 데이터 전처리, 데이터 시각화, modeling, 발표, 커밋 |
+| 김기범 | [See GitHub Profile](https://github.com/) | 아이디어 빌딩, 데이터 전처리 및 시각화, 데이터 마이닝, ppt |
+| 김건형 | [See GitHub Profile](https://github.com/) | 아이디어 빌딩, 데이터 전처리, AirFlow 활용 크롤링, ppt|
+| 김채령 | [See GitHub Profile](https://github.com/) | 아이디어 빌딩, 데이터 전처리 및 시각화, 데이터 마이닝, 발표 |
+| 조수현 | [See GitHub Profile](https://github.com/) | 아이디어 빌딩, 데이터 전처리 및 시각화, 최종 ppt 및 원고 |
+| 한채연 | [See GitHub Profile](https://github.com/intelsally) | 아이디어 빌딩, 데이터 전처리 및 시각화, rfm 세부 분석 |
