@@ -16,6 +16,9 @@
 | ------ | -------- |
 | 구현 중.. \\ |
 
+## 🙌 Welcome to Notion!
+https://www.notion.so/KHUDA-KHUPANG-33be32cc5dee4455ba2b4c2aa4deed52?pvs=4
+
 ## 🧑🏻‍💻 역할 분배
 ---- Member List ---- <b>
 #### 김기범, 김건형, 김채령, 이준혁, 조수현, 한채연 <br>
