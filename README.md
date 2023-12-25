@@ -64,7 +64,7 @@ https://www.notion.so/KHUDA-KHUPANG-33be32cc5dee4455ba2b4c2aa4deed52?pvs=4
 
 | NAME | github | Part |
 | ------ | -------- | ----------------	|
-| 이준혁 | [See GitHub Profile](https://github.com/leejoon2067) | 아이디어 빌딩, 데이터 마이닝, 최종 ppt, github 및 notion 운영 |
+| 이준혁 | [See GitHub Profile](https://github.com/leejoon2067) | 아이디어 빌딩, 데이터 마이닝, 최종 ppt, github 및 notion 운영(PM) |
 | 김기범 | [See GitHub Profile](https://github.com/minpedco1) | 아이디어 빌딩, 데이터 전처리 및 시각화, 데이터 마이닝 |
 | 김건형 | [See GitHub Profile](https://github.com/GU-0) | 아이디어 빌딩, 데이터 전처리, AirFlow 활용 크롤링, 데이터 마이닝 |
 | 김채령 | [See GitHub Profile](https://github.com/riela77) | 아이디어 빌딩, 데이터 전처리 및 시각화, 발표 |
